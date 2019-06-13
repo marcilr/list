@@ -31,7 +31,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdarg.h>
-#include "List.h"
+#include "list.h"
 
 /*
  * g_list_create(void);
