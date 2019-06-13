@@ -3,7 +3,7 @@
 # genmake 1.0 by ma_muquit@fccc.edu
 ##
 CC= cc
-DEFS
+DEFS=
 AR= ar cq
 RANLIB= ranlib
 LIBNAME= list
