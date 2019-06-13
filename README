@@ -1,0 +1,16 @@
+README
+Created Thu Jun 13 10:56:31 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+list.c                                             
+  by Raymond E. Marcil (06/22/01)
+  circa 2001 Spectrum Wireless, Inc.
+
+list.h                                             
+  by Raymond E. Marcil (06/22/01) 
+
+Makefile
+  Makefile for list
